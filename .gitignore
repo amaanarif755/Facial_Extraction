@@ -1,0 +1,15 @@
+# Environments
+.venv/
+__pycache__/
+
+# Large Data & Media Files
+*.pkl
+*.mp4
+*.jpg
+*.png
+My_Matches/
+Natyamanch/
+Desi Sync/
+Nukkad/
+Hasyamanch/
+Pratibimb/
